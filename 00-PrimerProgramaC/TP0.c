@@ -3,10 +3,10 @@
 
 int main(){
     
-    printf("Materia: Sintaxis y Semántica de los Lenguajes \n");
+    printf("Materia: Sintaxis y Semantica de los Lenguajes \n");
     printf("Curso: K2052\n");
     printf("Profesor: Santiago Ferreiros Cabrera\n");
-    printf("Año: 2022\n");
+    printf("Anio: 2022\n");
 
     system("pause");
 
